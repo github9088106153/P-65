@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+}
+
+.my_nav_bar
+{
+position: sticky;
+top: 0px;
+z-index: 99999;
+width: 100%;
+}
+
+
